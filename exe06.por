@@ -1,3 +1,9 @@
+
+/* 6. Elabore um programa que leia dois números reais, a operação aritmética e, então, calcule e imprima o resultado da operação desejada. 
+ *  Utilize os símbolos (+,-,*,/) para identificar a operação aritmética. Caso a operação pretendida seja diferente das implementadas, o programa deverá exibir a mensagem “Operação Inválida” para o usuário.
+ *  /*
+
+ */
 programa 
 {
   funcao inicio() 
@@ -39,10 +45,21 @@ programa
         escreva ("Resultado:\n\n")
         escreva(operando1, " ", operador, " ", operando2, " = ", resultado)
       } senao {
-        escreva ("O operador inform�do � invalido")
+        escreva ("O operador informádo é invalido")
       }
 
 
     escreva ("\n")
   }
 }
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 369; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */

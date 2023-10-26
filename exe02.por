@@ -1,4 +1,5 @@
-/*M�DIA DE 3 NUMEROS */
+/*2. Faça um programa que calcule a média simples (aritmética) de 3 valores quaisquer informado pelo usuário.
+Utilize as variáveis valor1, valor2 e valor3. Exiba a média na tela para o usuário. */
 
 
 programa {
@@ -15,9 +16,21 @@ programa {
     leia (valor3)
 
     media = (valor1 + valor2 + valor3 ) / 3
-    escreva ( " \n A m�dia dos valores �: ", media )
+    escreva ( " \n A média dos valores é: ", media )
 
 
     
   }
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 110; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */

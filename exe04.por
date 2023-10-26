@@ -1,3 +1,5 @@
+
+/* 4. Faça um algoritmo que leia 5 números do teclado, e faça uma média.*/
 programa {
   inclua biblioteca Util
 
@@ -23,6 +25,18 @@ programa {
 
     media = total / fim
 
-    escreva("A m�dia foi ", media)
+    escreva("A média foi ", media)
   }
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 75; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
